@@ -1,0 +1,2 @@
+# Formation-of-carbon-nanostructures
+To understand the formation of carbon nanostructures in the circumstellar environments, we will use unsupervised machine learning techniques. We have generated a lot of molecular dynamics simulation data for multilayered graphene system. On these data we will use unsupervised machine learning techniques to identify structures with configurations close to the C60 (Buckminsterfullerene) molecule.
